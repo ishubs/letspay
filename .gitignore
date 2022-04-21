@@ -1,0 +1,10 @@
+node_modules
+.gradle
+.idea
+__tests__
+android/build
+android/app/build/
+android/app
+android/gradle
+android/build/google-services.json
+
